@@ -1,4 +1,4 @@
-# IETI-LAB02-1
+# IETI-LAB02-2
 
 ## Realizado por:
 * Ricardo Amaya Rivera 
